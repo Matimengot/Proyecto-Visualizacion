@@ -14,7 +14,7 @@
 
 ## Introduccion 🎵
 
-En este proyecto mi principal obejtivo era analizar cual fue el genero musical que predomino mas desde el ano 1990 hasta 2021. Para esto decidi tomar los albums del top 3 dentro de ese intervalo de anos. Para esto decidi utilizar Power BI, lo que permitira captar la vista del publico objetivo sin problema alguno.
+En este proyecto mi principal obejtivo era analizar cual fue el genero musical que predomino mas desde el año 1990 hasta 2021. Para esto decidi tomar los albums del top 3 dentro de ese intervalo de años. Para esto decidi utilizar Power BI, lo que permitira captar la vista del publico objetivo sin problema alguno.
 
 <a name="art"/>
 
